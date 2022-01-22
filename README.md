@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jotarexx
+- 👋 Hi, I’m Javier
 - 👀 I’m interested in Programation and Web design
 - 🌱 I’m currently learning Web desing | Javascript
 - 💞️ I’m looking to collaborate on Freelance
