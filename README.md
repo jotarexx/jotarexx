@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Javier
 - 👀 I’m interested in Programation and Web developer
-- 🌱 I’m currently learning Web developer | Javascript
+- 🌱 I’m currently learning Web develop
 - 💞️ I’m looking to collaborate on Freelance
 - 📫 How to reach me 📸 instagram.com/javexmo and 🕊️ twitter.com/DeveloperJrex
 
