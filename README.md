@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Javier
 - 👀 I’m interested in programming and Frontend Web Development | HTML | CSS | JAVASCRIPT | REACT |  NODE | GITHUB | 
-- 🌱 I’m currently learning Frontend Web
+- 🌱 I’m currently learning Frontend Web development
 - 💞️ I’m looking to collaborate on Freelance
 - 📫 How to reach me 🕊️ https://jotarexx.github.io/jrexDev
 
